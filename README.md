@@ -1,5 +1,6 @@
 encrB
 =====
+
 Basically just encr rewritten in C++. Console only.
 =====
 NOT COMPATIBLE WITH encr!!!
